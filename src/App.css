@@ -1,0 +1,19 @@
+
+.navbar {
+    background-color: #921A40 !important; 
+  }
+  .navbar-nav .nav-link {
+    color: #ffffff !important; 
+  }
+  .btn-outline-success {
+    color: #ffffff !important; /* Text color */
+    border-color: #ffffff !important; /* Border color */
+  }
+  .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;base64,...'); /* Customize as needed */
+  }
+
+.btn-outline-success:hover {
+    background-color: #ffffff !important; /* Background color on hover */
+    color: #921A40 !important; /* Text color on hover */
+}
